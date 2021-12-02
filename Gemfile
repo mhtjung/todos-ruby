@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-ruby "3.0.2"
+ruby "2.7.4"
 gem "sinatra", "~>1.4.7"
 gem "sinatra-contrib"
 gem "erubis"
